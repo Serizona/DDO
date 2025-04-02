@@ -5,7 +5,7 @@
             "path": "DDO_RA/LRAterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_1.stl",
             "opacity": 1.0,
-            "color": "#0392d7",
+            "color": "#fdcd62",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "DDO_RA/LRAterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_2.stl",
             "opacity": 1.0,
-            "color": "#c5c9dd",
+            "color": "#277da1",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "DDO_RA/LRAterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_3.stl",
             "opacity": 1.0,
-            "color": "#62288a",
+            "color": "#1d5abd",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "DDO_RA/LRAterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_4.stl",
             "opacity": 1.0,
-            "color": "#66e23d",
+            "color": "#dab1a0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "DDO_RA/LRAterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_5.stl",
             "opacity": 1.0,
-            "color": "#52fee0",
+            "color": "#045c32",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "DDO_RA/LRAterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_6.stl",
             "opacity": 1.0,
-            "color": "#689d31",
+            "color": "#fd04fb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "DDO_RA/RRAterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_1.stl",
             "opacity": 1.0,
-            "color": "#0392d7",
+            "color": "#fdcd62",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "DDO_RA/RRAterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_2.stl",
             "opacity": 1.0,
-            "color": "#c5c9dd",
+            "color": "#277da1",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "DDO_RA/RRAterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_3.stl",
             "opacity": 1.0,
-            "color": "#62288a",
+            "color": "#1d5abd",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "DDO_RA/RRAterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_4.stl",
             "opacity": 1.0,
-            "color": "#66e23d",
+            "color": "#dab1a0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "DDO_RA/RRAterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_5.stl",
             "opacity": 1.0,
-            "color": "#52fee0",
+            "color": "#045c32",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "DDO_RA/RRAterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_6.stl",
             "opacity": 1.0,
-            "color": "#689d31",
+            "color": "#fd04fb",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
