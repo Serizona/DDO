@@ -5,7 +5,7 @@
             "path": "DDO_RA/LRAterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_1.stl",
             "opacity": 0.4,
-            "color": "#eb4bbc",
+            "color": "#78c7e4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -23,7 +23,7 @@
             "path": "DDO_RA/LRAterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_2.stl",
             "opacity": 0.4,
-            "color": "#4e49fb",
+            "color": "#d35dab",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "DDO_RA/LRAterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_3.stl",
             "opacity": 0.4,
-            "color": "#49627b",
+            "color": "#65e025",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "DDO_RA/LRAterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_4.stl",
             "opacity": 0.4,
-            "color": "#3bcf4e",
+            "color": "#7c37d5",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "DDO_RA/LRAterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_5.stl",
             "opacity": 0.4,
-            "color": "#b856fa",
+            "color": "#55f904",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "DDO_RA/LRAterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_6.stl",
             "opacity": 0.4,
-            "color": "#446dd0",
+            "color": "#9c29c3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "DDO_RA/RRAterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_1.stl",
             "opacity": 0.4,
-            "color": "#eb4bbc",
+            "color": "#78c7e4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "DDO_RA/RRAterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_2.stl",
             "opacity": 0.4,
-            "color": "#4e49fb",
+            "color": "#d35dab",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "DDO_RA/RRAterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_3.stl",
             "opacity": 0.4,
-            "color": "#49627b",
+            "color": "#65e025",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "DDO_RA/RRAterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_4.stl",
             "opacity": 0.4,
-            "color": "#3bcf4e",
+            "color": "#7c37d5",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "DDO_RA/RRAterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_5.stl",
             "opacity": 0.4,
-            "color": "#b856fa",
+            "color": "#55f904",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "DDO_RA/RRAterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_6.stl",
             "opacity": 0.4,
-            "color": "#446dd0",
+            "color": "#9c29c3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "DDO_RA/left_cyst_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/left_cyst_1.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "DDO_RA/left_cyst_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/left_cyst_2.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -329,7 +329,7 @@
             "path": "DDO_RA/right_cyst_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/right_cyst_1.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -347,7 +347,7 @@
             "path": "DDO_RA/right_cyst_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/right_cyst_2.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
