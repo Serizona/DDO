@@ -41,7 +41,7 @@
             "path": "DDO_NW/left_cyst_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/left_cyst_1.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "DDO_NW/left_cyst_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/left_cyst_2.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "DDO_NW/left_veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/left_veins.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "DDO_NW/right_cyst_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/right_cyst_1.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "DDO_NW/right_cyst_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/right_cyst_2.stl",
             "opacity": 1.0,
-            "color": "#cdcd64",
+            "color": "#ffe299",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "DDO_NW/right_veins.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/right_veins.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#8da7f4",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
