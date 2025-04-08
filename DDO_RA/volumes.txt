@@ -1,22 +1,7 @@
 File STL		Volume (cm³)
 ========================================
-LRAterritory_1.stl		18.97445 cm³
-LRAterritory_2.stl		14.74708 cm³
-LRAterritory_3.stl		24.70254 cm³
-LRAterritory_4.stl		8.90208 cm³
-LRAterritory_5.stl		2.89448 cm³
-LRAterritory_6.stl		26.42361 cm³
-RRAterritory_1.stl		7.78521 cm³
-RRAterritory_2.stl		23.17813 cm³
-RRAterritory_3.stl		4.30244 cm³
-RRAterritory_4.stl		28.82568 cm³
-RRAterritory_5.stl		26.66398 cm³
-RRAterritory_6.stl		14.29665 cm³
-artery.stl		15.42617 cm³
-left_artery.stl		3.06738 cm³
 left_cyst_1.stl		50.95650 cm³
 left_cyst_2.stl		1.33863 cm³
 left_tumor_1.stl		8.58606 cm³
-right_artery.stl		2.46178 cm³
 right_cyst_1.stl		0.97700 cm³
 right_cyst_2.stl		0.76285 cm³
