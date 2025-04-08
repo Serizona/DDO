@@ -1,5 +1,24 @@
 File STL		Volume (cm³)
 ========================================
+LRVterritory_1.stl		12.91828 cm³
+LRVterritory_10.stl		3.23311 cm³
+LRVterritory_2.stl		16.17865 cm³
+LRVterritory_3.stl		6.23433 cm³
+LRVterritory_4.stl		14.12951 cm³
+LRVterritory_5.stl		9.01224 cm³
+LRVterritory_6.stl		7.36650 cm³
+LRVterritory_7.stl		7.43474 cm³
+LRVterritory_8.stl		12.25698 cm³
+LRVterritory_9.stl		7.80463 cm³
+RRVterritory_1.stl		24.20699 cm³
+RRVterritory_2.stl		7.39210 cm³
+RRVterritory_3.stl		8.42835 cm³
+RRVterritory_4.stl		10.50800 cm³
+RRVterritory_5.stl		9.27633 cm³
+RRVterritory_6.stl		14.97847 cm³
+RRVterritory_7.stl		17.85188 cm³
+RRVterritory_8.stl		1.10615 cm³
+RRVterritory_9.stl		11.47833 cm³
 left_cyst_1.stl		50.95650 cm³
 left_cyst_2.stl		1.33863 cm³
 left_tumor_1.stl		8.58606 cm³
