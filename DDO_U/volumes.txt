@@ -1,24 +1,7 @@
 File STL		Volume (cm³)
 ========================================
-LUterritory_1.stl		19.97383 cm³
-LUterritory_2.stl		15.81268 cm³
-LUterritory_3.stl		19.14269 cm³
-LUterritory_4.stl		13.66934 cm³
-LUterritory_5.stl		9.40295 cm³
-LUterritory_6.stl		18.93607 cm³
-RUterritory_1.stl		20.74087 cm³
-RUterritory_2.stl		15.16366 cm³
-RUterritory_3.stl		11.84375 cm³
-RUterritory_4.stl		11.35369 cm³
-RUterritory_5.stl		13.03785 cm³
-RUterritory_6.stl		9.40252 cm³
-RUterritory_7.stl		6.27427 cm³
-RUterritory_8.stl		10.03883 cm³
-RUterritory_9.stl		8.69281 cm³
 left_cyst_1.stl		50.95650 cm³
 left_cyst_2.stl		1.33863 cm³
 left_tumor_1.stl		8.58606 cm³
-left_urinary_sistem.stl		5.72136 cm³
 right_cyst_1.stl		0.97700 cm³
 right_cyst_2.stl		0.76285 cm³
-right_urinary_sistem.stl		9.34961 cm³
