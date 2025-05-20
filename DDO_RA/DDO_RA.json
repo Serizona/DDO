@@ -1,0 +1,544 @@
+{
+    "models": [
+        {
+            "name": "Artery.stl",
+            "path": "DDO_RA/Artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Artery.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRA_main_branch.stl.stl",
+            "path": "DDO_RA/LRA_main_branch.stl.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRA_main_branch.stl.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_1.stl",
+            "path": "DDO_RA/LRAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_2.stl",
+            "path": "DDO_RA/LRAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_3.stl",
+            "path": "DDO_RA/LRAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#90b567",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_4.stl",
+            "path": "DDO_RA/LRAbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#e27e85",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAbranch_5.stl",
+            "path": "DDO_RA/LRAbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAbranch_5.stl",
+            "opacity": 1.0,
+            "color": "#a218ef",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_1.stl",
+            "path": "DDO_RA/LRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_2.stl",
+            "path": "DDO_RA/LRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_3.stl",
+            "path": "DDO_RA/LRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#90b567",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_4.stl",
+            "path": "DDO_RA/LRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#e27e85",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "LRAterritory_5.stl",
+            "path": "DDO_RA/LRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/LRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#a218ef",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_cyst_1.stl",
+            "path": "DDO_RA/Left_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Left_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_cyst_2.stl",
+            "path": "DDO_RA/Left_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Left_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_tumor.stl",
+            "path": "DDO_RA/Left_tumor.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Left_tumor.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRA_main_branch.stl.stl",
+            "path": "DDO_RA/RRA_main_branch.stl.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRA_main_branch.stl.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_1.stl",
+            "path": "DDO_RA/RRAbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_2.stl",
+            "path": "DDO_RA/RRAbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_3.stl",
+            "path": "DDO_RA/RRAbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#90b567",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_4.stl",
+            "path": "DDO_RA/RRAbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#e27e85",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_5.stl",
+            "path": "DDO_RA/RRAbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_5.stl",
+            "opacity": 1.0,
+            "color": "#a218ef",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAbranch_6.stl",
+            "path": "DDO_RA/RRAbranch_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAbranch_6.stl",
+            "opacity": 1.0,
+            "color": "#ba737c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_1.stl",
+            "path": "DDO_RA/RRAterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_2.stl",
+            "path": "DDO_RA/RRAterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_3.stl",
+            "path": "DDO_RA/RRAterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#90b567",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_4.stl",
+            "path": "DDO_RA/RRAterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#e27e85",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_5.stl",
+            "path": "DDO_RA/RRAterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#a218ef",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "RRAterritory_6.stl",
+            "path": "DDO_RA/RRAterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/RRAterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#ba737c",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_cyst_1.stl",
+            "path": "DDO_RA/Right_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Right_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_cyst_2.stl",
+            "path": "DDO_RA/Right_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RA/Right_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}

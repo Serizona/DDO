@@ -1,0 +1,274 @@
+{
+    "models": [
+        {
+            "name": "Artery.stl",
+            "path": "DDO_NW/Artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Artery.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_artery.stl",
+            "path": "DDO_NW/Left_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_artery.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_cyst_1.stl",
+            "path": "DDO_NW/Left_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_cyst_2.stl",
+            "path": "DDO_NW/Left_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_kidney.stl",
+            "path": "DDO_NW/Left_kidney.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_kidney.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_tumor.stl",
+            "path": "DDO_NW/Left_tumor.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_tumor.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Left_urinary_system.stl",
+            "path": "DDO_NW/Left_urinary_system.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Left_urinary_system.stl",
+            "opacity": 1.0,
+            "color": "#d0e667",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_artery.stl",
+            "path": "DDO_NW/Right_artery.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_artery.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_cyst_1.stl",
+            "path": "DDO_NW/Right_cyst_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_cyst_1.stl",
+            "opacity": 1.0,
+            "color": "#53eb80",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_cyst_2.stl",
+            "path": "DDO_NW/Right_cyst_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_cyst_2.stl",
+            "opacity": 1.0,
+            "color": "#e3f897",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_kidney.stl",
+            "path": "DDO_NW/Right_kidney.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_kidney.stl",
+            "opacity": 1.0,
+            "color": "#FFFFFF",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_urinary_system.stl",
+            "path": "DDO_NW/Right_urinary_system.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_urinary_system.stl",
+            "opacity": 1.0,
+            "color": "#d0e667",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "Right_veins.stl",
+            "path": "DDO_NW/Right_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/Right_veins.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "left_veins.stl",
+            "path": "DDO_NW/left_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/left_veins.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "vein.stl",
+            "path": "DDO_NW/vein.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/vein.stl",
+            "opacity": 1.0,
+            "color": "#8da7f4",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
