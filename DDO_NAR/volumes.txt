@@ -1,8 +1,14 @@
 File STL		Volume (cm³)
 ========================================
+graft_1_m5_a30.stl		30.29035 cm³
+graft_2_m10_a30.stl		38.05865 cm³
+graft_3_m15_a30.stl		45.57463 cm³
 left_cyst_1.stl		1.33863 cm³
 left_cyst_2.stl		50.95650 cm³
 left_tumor.stl		8.58606 cm³
+remnant_1_m5_a30.stl		74.70044 cm³
+remnant_2_m10_a30.stl		67.06362 cm³
+remnant_3_m15_a30.stl		59.52463 cm³
 right_cyst_1.stl		0.97700 cm³
 right_cyst_2.stl		0.76285 cm³
 right_kidney.stl		104.31444 cm³
