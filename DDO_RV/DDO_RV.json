@@ -23,7 +23,7 @@
             "path": "DDO_RV/LRVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#c9c655",
+            "color": "#faf632",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -41,7 +41,7 @@
             "path": "DDO_RV/LRVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#0ba0f7",
+            "color": "#2b6520",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -59,7 +59,7 @@
             "path": "DDO_RV/LRVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#58d87e",
+            "color": "#62160e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -77,7 +77,7 @@
             "path": "DDO_RV/LRVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#78ac9e",
+            "color": "#8f3f26",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -95,7 +95,7 @@
             "path": "DDO_RV/LRVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#b4decc",
+            "color": "#23b2d3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -113,7 +113,7 @@
             "path": "DDO_RV/LRVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#4f7a18",
+            "color": "#703ec7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -131,7 +131,7 @@
             "path": "DDO_RV/LRVbranch_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_7.stl",
             "opacity": 1.0,
-            "color": "#7c0cae",
+            "color": "#671ea0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -149,7 +149,7 @@
             "path": "DDO_RV/LRVbranch_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVbranch_8.stl",
             "opacity": 1.0,
-            "color": "#0e09b7",
+            "color": "#ef0481",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -167,7 +167,7 @@
             "path": "DDO_RV/LRVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#c9c655",
+            "color": "#faf632",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -185,7 +185,7 @@
             "path": "DDO_RV/LRVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#0ba0f7",
+            "color": "#2b6520",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -203,7 +203,7 @@
             "path": "DDO_RV/LRVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#58d87e",
+            "color": "#62160e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -221,7 +221,7 @@
             "path": "DDO_RV/LRVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#78ac9e",
+            "color": "#8f3f26",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -239,7 +239,7 @@
             "path": "DDO_RV/LRVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#b4decc",
+            "color": "#23b2d3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -257,7 +257,7 @@
             "path": "DDO_RV/LRVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#4f7a18",
+            "color": "#703ec7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -275,7 +275,7 @@
             "path": "DDO_RV/LRVterritory_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_7.stl",
             "opacity": 0.4,
-            "color": "#7c0cae",
+            "color": "#671ea0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -293,7 +293,7 @@
             "path": "DDO_RV/LRVterritory_8.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/LRVterritory_8.stl",
             "opacity": 0.4,
-            "color": "#0e09b7",
+            "color": "#ef0481",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -329,7 +329,7 @@
             "path": "DDO_RV/RRVbranch_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_1.stl",
             "opacity": 1.0,
-            "color": "#c9c655",
+            "color": "#faf632",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -347,7 +347,7 @@
             "path": "DDO_RV/RRVbranch_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_2.stl",
             "opacity": 1.0,
-            "color": "#0ba0f7",
+            "color": "#2b6520",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -365,7 +365,7 @@
             "path": "DDO_RV/RRVbranch_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_3.stl",
             "opacity": 1.0,
-            "color": "#58d87e",
+            "color": "#62160e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -383,7 +383,7 @@
             "path": "DDO_RV/RRVbranch_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_4.stl",
             "opacity": 1.0,
-            "color": "#78ac9e",
+            "color": "#8f3f26",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -401,7 +401,7 @@
             "path": "DDO_RV/RRVbranch_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_5.stl",
             "opacity": 1.0,
-            "color": "#b4decc",
+            "color": "#23b2d3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -419,7 +419,7 @@
             "path": "DDO_RV/RRVbranch_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_6.stl",
             "opacity": 1.0,
-            "color": "#4f7a18",
+            "color": "#703ec7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -437,7 +437,7 @@
             "path": "DDO_RV/RRVbranch_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVbranch_7.stl",
             "opacity": 1.0,
-            "color": "#7c0cae",
+            "color": "#671ea0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -455,7 +455,7 @@
             "path": "DDO_RV/RRVterritory_1.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_1.stl",
             "opacity": 0.4,
-            "color": "#c9c655",
+            "color": "#faf632",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -473,7 +473,7 @@
             "path": "DDO_RV/RRVterritory_2.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_2.stl",
             "opacity": 0.4,
-            "color": "#0ba0f7",
+            "color": "#2b6520",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -491,7 +491,7 @@
             "path": "DDO_RV/RRVterritory_3.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_3.stl",
             "opacity": 0.4,
-            "color": "#58d87e",
+            "color": "#62160e",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -509,7 +509,7 @@
             "path": "DDO_RV/RRVterritory_4.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_4.stl",
             "opacity": 0.4,
-            "color": "#78ac9e",
+            "color": "#8f3f26",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -527,7 +527,7 @@
             "path": "DDO_RV/RRVterritory_5.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_5.stl",
             "opacity": 0.4,
-            "color": "#b4decc",
+            "color": "#23b2d3",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -545,7 +545,7 @@
             "path": "DDO_RV/RRVterritory_6.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_6.stl",
             "opacity": 0.4,
-            "color": "#4f7a18",
+            "color": "#703ec7",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -563,7 +563,7 @@
             "path": "DDO_RV/RRVterritory_7.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/RRVterritory_7.stl",
             "opacity": 0.4,
-            "color": "#7c0cae",
+            "color": "#671ea0",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
@@ -617,6 +617,24 @@
             "path": "DDO_RV/left_tumor.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/left_tumor.stl",
             "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_shell.stl",
+            "path": "DDO_RV/mass_shell.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_RV/mass_shell.stl",
+            "opacity": 0.4,
             "color": "#90ee90",
             "material": {
                 "type": "MeshStandardMaterial",
