@@ -95,7 +95,7 @@
             "path": "DDO_NW/left_tumor.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/DDO/master/DDO_NW/left_tumor.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#90ee90",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
