@@ -5,8 +5,6 @@ LRAterritory_2.stl		25.96403 cm³
 LRAterritory_3.stl		33.21851 cm³
 LRAterritory_4.stl		18.46759 cm³
 LRAterritory_5.stl		11.51571 cm³
-Left_cyst_1.stl		1.33863 cm³
-Left_cyst_2.stl		50.95650 cm³
 RRAterritory_1.stl		29.19772 cm³
 RRAterritory_2.stl		12.08650 cm³
 RRAterritory_3.stl		13.44262 cm³
@@ -15,3 +13,6 @@ RRAterritory_5.stl		6.33661 cm³
 RRAterritory_6.stl		3.92657 cm³
 Right_cyst_1.stl		0.97700 cm³
 Right_cyst_2.stl		0.76285 cm³
+left_cyst_1.stl		1.33863 cm³
+left_cyst_2.stl		50.95650 cm³
+left_tumor.stl		8.58606 cm³
