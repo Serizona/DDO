@@ -1,8 +1,9 @@
 File STL		Volume (cm³)
 ========================================
-Left_cyst_1.stl		1.33863 cm³
-Left_cyst_2.stl		50.95650 cm³
-Left_kidney.stl		96.37101 cm³
-Right_cyst_1.stl		0.97700 cm³
-Right_cyst_2.stl		0.76285 cm³
-Right_kidney.stl		104.31444 cm³
+left_cyst_1.stl		1.33863 cm³
+left_cyst_2.stl		50.95650 cm³
+left_kidney.stl		96.37101 cm³
+left_tumor.stl		8.58606 cm³
+right_cyst_1.stl		0.97700 cm³
+right_cyst_2.stl		0.76285 cm³
+right_kidney.stl		104.31444 cm³
